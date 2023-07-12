@@ -3,7 +3,7 @@ All projects undertaken as part of FreeCodeCamps "Responsive Web Development" ce
 All projects fulfill the user stories and pass all the tests.
 
 ## Technologies 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,vscode,bootstrap,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,github,vscode,bootstrap)](https://skillicons.dev)
 
 ## Technical Documentation
 Live Demo: [technical Documentation](https://codepen.io/lawbowman/pen/XWjLGBM)
