@@ -5,11 +5,11 @@ All projects fulfill the user stories and pass all the tests.
 ## Technologies 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,vscode,bootstrap,react)](https://skillicons.dev)
 
-## Drum Board
+## Dru
 Live Demo: [Drum Machine by Luke](https://codepen.io/LAWBowie/pen/yLQzXKa)
 
-## Random Quote Generator
-Live Demo: [Random Quote Generator by Luke ](https://lawbowie.github.io/random_quote_generator/)
+## Product Landing Page
+Live Demo: [Product Landing Page by Luke ](https://codepen.io/LAWBowie/pen/RwqxyJm)
 
 ## Markdown Previewer
 Live Demo: [Markdown Previewer by Luke](https://lawbowie.github.io/markdown_previewer/)
