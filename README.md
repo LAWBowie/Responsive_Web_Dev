@@ -1,7 +1,7 @@
 # Responsive Web Dev
 All projects were undertaken as part of FreeCodeCamps "Responsive Web Development" certification. <br>
 All projects fulfill the user stories and pass all the tests. <br>
-(Beginner Level)
+(Beginner Level Projects)
 
 ## Technologies 
 [![My Skills](https://skillicons.dev/icons?i=html,css,github,vscode,bootstrap)](https://skillicons.dev)
